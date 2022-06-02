@@ -1,0 +1,9 @@
+{
+    "name": "demo",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.18.1",
+        "mongoose": "^6.3.4",
+        "underscore": "^1.13.3"
+    }
+}
